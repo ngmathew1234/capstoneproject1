@@ -14,7 +14,7 @@ Data Cleaning:
 Combined many datasets to one csv file containing important stats and social media data and removing any null values
 
 Data exploration and analysis 
-Seeing the relatiship betewwn stats that determine players performance and how performance stats relate to social media stats. There was no need to statistical/sample testing for this data set as we are working with the whole population. 
+Seeing the relationship between stats that determine players performance and how performance stats relate to social media stats. There was no need to statistical/sample testing for this data set as we are working with the whole population. 
 
 
 Machine Learning 
